@@ -45,7 +45,7 @@ with st.container():
         st.markdown("")
         st.write("")
         st.markdown("Lets have fun and enjoy ourselves today, better hold my hand while we are going on all them rollercoaster rides!")
-        st.markdown("Hopefully we get to take some pics together today:)")
+        st.markdown("Hopefully we get to take some pics together too:)")
 
 #st.markdown("<h1 style='text-align: center; color: white;'>Will you be my valentine?😍</h1>", unsafe_allow_html=True)
 
